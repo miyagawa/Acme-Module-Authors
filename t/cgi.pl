@@ -1,5 +1,5 @@
 #!perl
 use strict;
-use blib;
+use lib 'blib/lib';
 use Acme::Module::Authors;
 use CGI;
